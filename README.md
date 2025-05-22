@@ -22,7 +22,7 @@ For example, this is the original Image:
 
 <br>
 <p align ="center">
-    <image src="images/Figure_1_The_Image.png" alt="Original Image" width="50%">
+    <image src="images/Figure_1_The_Image.png" alt="Original Image">
 </p>
 <br>
 <br>
@@ -32,7 +32,7 @@ After applying the color, the picture would be like this:
 
 <br>
 <p align ="center">
-    <image src="images/Figure_2_Colorized_Image.png" alt="Colored Image" width="50%">
+    <image src="images/Figure_2_Colorized_Image.png" alt="Colored Image">
 </p>
 <br>
 <br>
