@@ -20,7 +20,6 @@ This program follows these steps:
 ### Original Image
 For example, this is the original Image:
 
-<br>
 <p align ="center">
     <image src="images/Figure_1_The_Image.png" alt="Original Image">
 </p>
@@ -30,7 +29,6 @@ For example, this is the original Image:
 ### Colorized Image
 After applying the color, the picture would be like this: 
 
-<br>
 <p align ="center">
     <image src="images/Figure_2_Colorized_Image.png" alt="Colored Image">
 </p>
