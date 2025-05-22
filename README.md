@@ -2,7 +2,6 @@
 There are several tecniques to paint black and white pictures, and this task is no longer something wild. AI can do this for you almost flawlessly in less than a minute. But I tried one of the popular tecniques called **Histogram-Based Painting Technique in Coloring Pictures**, which was so cool to try! 
 
 <br>
-<br>
 
 # :rainbow: How does the program work?
 This program follows these steps:
@@ -33,7 +32,7 @@ After applying the color, the picture would be like this:
 
 <br>
 <p align ="center">
-    <image src="images/Figure_2_Colorized_Image" alt="Colored Image" width="50%">
+    <image src="images/Figure_2_Colorized_Image.png" alt="Colored Image" width="50%">
 </p>
 <br>
 <br>
